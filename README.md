@@ -1,5 +1,5 @@
 # products-delivery
-# all the contents are
+all the contents are
 Nav:
 Move It
 Home
